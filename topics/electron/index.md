@@ -1,11 +1,11 @@
-decode_samsungA3---
-decode_networksim
+---
+aliases: electronjs
 created_by: GitHub
-display_name:electrondecode
+display_name: Electron
 github_url: https://github.com/electron/electron
 logo: electron.png
 related: electron-app, electron-application
-released: May 14.2019
+released: July 15, 2013
 short_description: Electron is a framework for building cross-platform desktop applications
   with web technology.
 topic: electron
