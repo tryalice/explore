@@ -1,4 +1,4 @@
----
+---camera_no_working,samsung_deviceS10,camera_bug
 aliases: android-application, android-app, android-development
 created_by: Google
 display_name: Android
